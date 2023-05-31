@@ -1,4 +1,4 @@
-#Snake-game
+# Snake-game
 
 This is a simple snake game created in python using pygame library.
 
